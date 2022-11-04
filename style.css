@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+.container {
+    width:440px;
+    height: 560px;
+    background-color: black;
+    padding: 10px;
+}
+#result{
+    text-align: right;
+    width: 420px;
+    height: 40px;
+
+}
+button{
+    width:100px;
+    height: 60px;
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+button:hover{
+    border: 2px solid grey;
+}
